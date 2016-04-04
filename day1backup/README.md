@@ -1,1 +1,1 @@
-presidential campaign donations data should go here
+These are a few practice projects I was doing on the side. This was my first attempt at parsing and visualizing large datasets(the campaign donations from the 2008 general election). These problems came from MIT OpenCourseWare.
